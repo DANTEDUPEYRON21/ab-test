@@ -21,5 +21,5 @@ Determinar si la nueva versión del sistema de recomendaciones mejora significat
 Se obtuvieron diferencias significativas en el comportamiento de los grupos, lo que permitió validar el impacto del sistema de recomendaciones.
 
 ## 📁 Archivos del repositorio
-- `ab_test_analysis.ipynb`: Notebook principal con el análisis completo.
+- `test_ab.ipynb`: Notebook principal con el análisis completo.
 - `README.md`: Este archivo.
